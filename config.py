@@ -1,0 +1,2 @@
+TOKEN="8653070190:AAFtg5b3K1-Lqd02ZZ_OOXLgvGxoohgJy-0"
+DB="words.db"
