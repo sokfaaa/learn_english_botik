@@ -1,7 +1,7 @@
 import asyncio
 from aiogram import Bot, Dispatcher
 
-from config import TOKEN
+from config import BOT_TOKEN
 from database import init_db, get_recent_words
 from handlers.examples import prefetch_examples
 from handlers import register_handlers
