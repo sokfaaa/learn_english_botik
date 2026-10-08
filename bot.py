@@ -6,7 +6,7 @@ from database import init_db, get_recent_words
 from handlers.examples import prefetch_examples
 from handlers import register_handlers
 
-bot = Bot(token=TOKEN)
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 
